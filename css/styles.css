@@ -1,11 +1,11 @@
 body {
-  background: linear-gradient(to right, orange, red);
+  background: linear-gradient(to right, blue, red);
   font-family: monospace;
 }
 
 nav {
   background-color: #F7BEC0;
-  color: #333;
+  color: #111;
   font-family: monospace;
   padding: 15px;
   text-align: center;
@@ -64,6 +64,6 @@ iframe {
   height: 500px;
 }
 
-.fragrenceNote {
+.carRecommendation{
   font-weight: bold;
 }
